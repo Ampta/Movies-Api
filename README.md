@@ -1,9 +1,13 @@
 Basic Movie api 
 
 [Day3 - Spring & Spring Boot Overview [6Nov].docx](https://github.com/user-attachments/files/17954739/Day3.-.Spring.Spring.Boot.Overview.6Nov.docx)
+
 [Day2 - Coding Tips For SpringBoot App - Working with AWS EC2 [5Nov].docx](https://github.com/user-attachments/files/17954738/Day2.-.Coding.Tips.For.SpringBoot.App.-.Working.with.AWS.EC2.5Nov.docx)
+
 [Day1 - Internship Overview - SpringBoot 1stApp Setup [4Nov].docx](https://github.com/user-attachments/files/17954737/Day1.-.Internship.Overview.-.SpringBoot.1stApp.Setup.4Nov.docx)
+
 [Day4 - Coding with Spring Boot - Spring Container & Annotations [7Nov].docx](https://github.com/user-attachments/files/17954720/Day4.-.Coding.with.Spring.Boot.-.Spring.Container.Annotations.7Nov.docx)
+
 [Day5 - SpringBootApplication annotation - Coding RestAPI around Resources [8Nov].docx](https://github.com/user-attachments/files/17954721/Day5.-.SpringBootApplication.annotation.-.Coding.RestAPI.around.Resources.8Nov.docx)
 
 [W2D4 - Lombok - Project Package Standards [14Nov].docx](https://github.com/user-attachments/files/17954725/W2D4.-.Lombok.-.Project.Package.Standards.14Nov.docx)
